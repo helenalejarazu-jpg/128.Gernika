@@ -1,0 +1,31 @@
+@font-face{font-family:Comfortaa;src:url('Comfortaa.ttf') format('truetype');font-style:normal;font-weight:300 700;font-display:swap}
+html{font-family:Comfortaa,'Century Gothic',sans-serif}
+.measure{width:100%;text-align:left}
+.measure strong{display:block;font-size:1rem;margin:0 0 5px}
+.measure>span{display:block}
+.measure:focus-visible,.mini:focus-visible{outline:3px solid #86163855;outline-offset:2px}
+.axis-index{margin:.65rem 0 0}
+.axis-link{text-align:left;width:100%;font:inherit;color:inherit;cursor:pointer}
+.axis-link:hover{border-color:var(--wine);box-shadow:0 3px 12px #86163818}
+.axis-link:focus-visible,.code-link:focus-visible{outline:3px solid var(--wine);outline-offset:3px}
+.compliance-chart{display:flex;align-items:center;gap:12px}
+.compliance-track{height:20px;background:#eee6e9;border-radius:5px;flex:1;overflow:hidden}
+.compliance-track span{display:block;height:100%;background:var(--wine)}
+.compliance-chart b{min-width:78px;text-align:right}
+.chart-scale{display:flex;justify-content:space-between;font-size:.75rem;color:var(--muted);margin:4px 90px 12px 0}
+.area-card h3{min-height:2.5em}
+.doc-table-wrap{overflow-x:auto}
+.doc-table{border-collapse:collapse;width:100%;background:white;text-align:left}
+.doc-table th,.doc-table td{padding:14px;border-bottom:1px solid var(--line);vertical-align:top}
+.doc-table th{background:#f4edf0}
+.doc-table td:first-child{width:55%;overflow-wrap:anywhere}
+.code-link{background:#f4edf0;color:var(--wine);border:1px solid var(--line);border-radius:5px;padding:5px 8px;margin:3px;cursor:pointer;font:inherit}
+.top{flex-wrap:wrap}
+#nav{flex-wrap:wrap}
+.selection-summary{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-top:14px}
+.selection-summary div{background:#fff;border:1px solid var(--line);border-top:3px solid var(--status,var(--wine));border-radius:9px;padding:10px}
+.selection-summary span,.selection-summary b{display:block}
+.selection-summary span{font-size:.78rem;color:var(--muted)}
+.definitions{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+.definitions p{background:#fff;border-left:4px solid var(--magenta);padding:14px;margin:0}
+@media(max-width:900px){.definitions{grid-template-columns:1fr}.selection-summary{grid-template-columns:repeat(2,1fr)}}
