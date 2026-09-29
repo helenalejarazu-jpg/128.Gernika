@@ -18,4 +18,6 @@ Resultados: global 27,70 %; condiciones estructurales 43,21 %; procedimientos de
 
 ACCESO
 La versión sin conexión no necesita instalación ni servidor. Los enlaces a páginas institucionales externas requieren conexión.
-La dirección publicada figura en el acceso directo «Abrir web publicada» y en Publicacion.json. Conserva el acceso restringido existente.
+La dirección publicada figura en el acceso directo «Abrir web publicada» y en Publicacion.json. Acceso público autorizado.
+
+Web publicada en GitHub Pages: https://helenalejarazu-jpg.github.io/128.Gernika/indicadores/
