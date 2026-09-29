@@ -1,0 +1,21 @@
+INDICADORES DE CALIDAD DE GERNIKA-LUMO 2026
+Entrega actualizada el 29 de septiembre de 2026
+Red Kuorum
+
+ARCHIVOS DE ENTREGA
+- Indicadores_calidad_sin_conexion_2026-09-29.zip: aplicación para consultar sin conexión. Descomprima el ZIP y abra index.html. Mantenga juntas sus carpetas.
+- Indicadores_calidad_version_web_2026-09-29.zip: archivos de la aplicación preparados para alojamiento web.
+- Indicadores_de_calidad_Gernika_Lumo_2026-09-29.xlsx: Excel actualizado de indicadores y análisis documental.
+
+CONTENIDO
+65 indicadores, agrupados en 13 variables y dos dimensiones. Las dos versiones de la aplicación incluyen el Excel y 60 documentos enlazados como evidencias, además de la documentación de planes y el documento de Emakunde.
+
+ÚLTIMAS CORRECCIONES
+Contratos: incorporadas las cinco carátulas y corregidas las explicaciones del análisis.
+Subvenciones: incorporadas la ordenanza y la documentación complementaria localizada; revisadas las explicaciones y seis casillas de la matriz documental. Se distinguen las previsiones generales de control y consecuencias de su aplicación efectiva a igualdad.
+Fecha de la aplicación: 29/09/2026. Las puntuaciones de los indicadores se mantienen.
+Resultados: global 27,70 %; condiciones estructurales 43,21 %; procedimientos de trabajo 12,18 %.
+
+ACCESO
+La versión sin conexión no necesita instalación ni servidor. Los enlaces a páginas institucionales externas requieren conexión.
+La dirección publicada figura en el acceso directo «Abrir web publicada» y en Publicacion.json. Conserva el acceso restringido existente.
