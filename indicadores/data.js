@@ -217,11 +217,11 @@ window.QUALITY_DATA = {
       "state": "SI",
       "provisional": false,
       "summary": {
-        "es": "Se declara una partida anual de igualdad y otra vinculada, según las sesiones con la técnica.",
-        "eu": "Teknikariarekin egindako saioen arabera, berdintasunerako urteko partida bat eta hari lotutako beste bat daude."
+        "es": "Existe presupuesto para Igualdad. La nueva tabla suma 97.996,50 € de crédito en dos partidas; falta confirmar año, fase presupuestaria y destino íntegro a igualdad.",
+        "eu": "Berdintasunerako aurrekontua badago. Taula berriko bi partiden kreditua 97.996,50 € da; urtea, aurrekontu-fasea eta diru guztia berdintasunera bideratzen den baieztatu behar dira."
       },
-      "assessment": "Partida de igualdad de 38.000 euros anuales (2023-2026) mas partida vinculada de 50.000 euros con posibilidad de transferencia de credito.",
-      "source": "Sesiones de trabajo con Jone Gurrea, tecnica de igualdad (3 y 17/07/2026)",
+      "assessment": "La existencia de presupuesto para el Servicio de Igualdad está acreditada y se mantiene el SI. La tabla remitida por Jone el 2 de octubre de 2026 recoge 46.996,50 € de crédito en Berdinsarea y 51.000 € en Emakumearen Bulegoa, 97.996,50 € en conjunto. Falta confirmar ejercicio, fecha de corte, crédito inicial o definitivo y destino íntegro a igualdad; esta suma no se considera todavía el presupuesto total confirmado del Servicio. Los 39.667,77 € de obligaciones reconocidas en esas partidas son gasto contabilizado, no crédito presupuestario. El coste de personal debe incorporarse según la dedicación a igualdad. La cifra histórica de 38.000 € y la referencia a una partida vinculada de 50.000 € proceden de las entrevistas y no se suman a la nueva tabla, para evitar duplicidades.",
+      "source": "Sesiones de trabajo con Jone Gurrea, técnica de igualdad, 3 y 17 de julio de 2026; correo «partidas económicas», 2 de octubre de 2026; presupuesto municipal 2025 publicado; aclaraciones solicitadas el 4 de octubre de 2026; Decreto Legislativo 1/2023, art. 15 y disposición adicional sexta: https://www.boe.es/buscar/act.php?id=BOE-A-2023-9168",
       "evidence": []
     },
     {
@@ -806,11 +806,11 @@ window.QUALITY_DATA = {
       "state": "SI",
       "provisional": false,
       "summary": {
-        "es": "Se declara presupuesto anual de igualdad. El documento 30 no acredita por sí solo esa partida municipal.",
-        "eu": "Berdintasunerako urteko aurrekontua dagoela adierazi da. 30. dokumentuak ez du berez udal-partida hori egiaztatzen."
+        "es": "Se acredita presupuesto anual. Consignación y ejecución se analizan por separado; el total imputable a igualdad está pendiente de confirmación.",
+        "eu": "Urteko aurrekontua egiaztatuta dago. Aurrekontu-zuzkidura eta gauzatzea bereiz aztertzen dira; berdintasunari egotz dakiokeen zenbateko osoa baieztatu gabe dago."
       },
-      "assessment": "Partida anual de igualdad de 38.000 euros mas partida vinculada de 50.000 euros, desde la que se ha financiado la mesa de cuidados. El presupuesto general de gastos de 2025 es de 20.972.457,36 euros. El documento publicado es un resumen por capitulos y articulos, sin desglose por programas, por lo que la partida de igualdad no aparece identificada en el documento presupuestario publico.",
-      "source": "Sesiones de trabajo con Jone Gurrea, tecnica de igualdad (3 y 17/07/2026); Presupuesto 2025 del Ayuntamiento publicado en la web municipal (ultimo disponible)",
+      "assessment": "Se mantiene el SI: se ha previsto y aprobado anualmente presupuesto para igualdad. La reconstrucción inicial recoge 34.481,50 € en 2021, 37.481,50 € en 2022 y una referencia de 38.000 € desde 2023, además de financiación de la Mesa de Cuidados desde otras partidas. La tabla remitida por Jone el 2 de octubre de 2026 identifica 97.996,50 € de crédito conjunto en Berdinsarea y Emakumearen Bulegoa, pero faltan el ejercicio, la fecha de corte, el carácter inicial o definitivo del crédito y la confirmación de su destino íntegro a igualdad. No se añade automáticamente una partida vinculada de 50.000 € ni se utiliza esta tabla como prueba de un incremento anual. Consignar y especificar recursos —art. 15.2 del Decreto Legislativo 1/2023— es dotar e identificar presupuesto; ejecutar gasto es una cuestión distinta. Los 39.667,77 € de obligaciones reconocidas informan de ejecución hasta la fecha de la tabla, no de la dotación anual. El presupuesto general de gastos de 2025 localizado es de 20.972.457,36 €; no se cruza con importes cuyo ejercicio o perímetro no esté confirmado.",
+      "source": "Sesiones de trabajo con Jone Gurrea, técnica de igualdad, 3 y 17 de julio de 2026; correo «partidas económicas», 2 de octubre de 2026; presupuesto municipal 2025 publicado; aclaraciones solicitadas el 4 de octubre de 2026; Decreto Legislativo 1/2023, art. 15 y disposición adicional sexta: https://www.boe.es/buscar/act.php?id=BOE-A-2023-9168",
       "evidence": []
     },
     {
@@ -846,13 +846,13 @@ window.QUALITY_DATA = {
       "variable": "2.1",
       "title": "El aumento del porcentaje dirigido a políticas de igualdad, hasta alcanzar al menos el 1% por ciento.",
       "state": "NO",
-      "provisional": false,
+      "provisional": true,
       "summary": {
-        "es": "Se mantiene el NO del Excel. Las cifras presupuestarias citadas necesitan sus documentos de soporte y un perímetro comparable.",
-        "eu": "Excelaren EZ mantentzen da. Aipatutako aurrekontu-zifrek euskarri-dokumentuak eta konparatzeko eremu bera behar dituzte."
+        "es": "Porcentaje y evolución pendientes de acreditación. El 0 provisional no demuestra que se esté por debajo del 1 %; se compara presupuesto con presupuesto, no con gasto ejecutado.",
+        "eu": "Ehunekoa eta bilakaera egiaztatu gabe daude. Behin-behineko 0ak ez du frogatzen % 1etik behera dagoenik; aurrekontua aurrekontuarekin alderatzen da, ez gauzatutako gastuarekin."
       },
-      "assessment": "Pendiente del presupuesto municipal total de 2026 para calcular el porcentaje destinado a igualdad. El ultimo presupuesto publicado en la web municipal es el de 2025 (ayuntamiento y organismos autonomos); el de 2026, aprobado en enero de 2026 segun la prensa local, no esta publicado. Pendiente de obtener la cifra global para calcular el porcentaje destinado a igualdad. Calculo: el presupuesto general de gastos de 2025 asciende a 20.972.457,36 euros. La partida de igualdad de 38.000 euros representa el 0,18%; sumando la partida vinculada de 50.000 euros, el 0,42%. Aun anadiendo el coste de la dedicacion parcial de la tecnica, el porcentaje se mantiene muy por debajo del 1%. Además, el indicador especifica aumento de porcentaje y la partida se ha mantenido estable los últimos tres años. ",
-      "source": "Web municipal gernika-lumo.eus (consulta 02/09/2026); Presupuesto 2025 del Ayuntamiento publicado en la web municipal (ultimo disponible)",
+      "assessment": "El aumento del porcentaje presupuestado para igualdad hasta alcanzar el 1 % no está acreditado con los datos disponibles. Se conserva provisionalmente el NO (0) conforme al criterio de acreditación aplicado en la herramienta; no significa que se haya demostrado un porcentaje inferior al 1 %. La tabla de Jone del 2 de octubre de 2026 suma 97.996,50 € de crédito en Berdinsarea y Emakumearen Bulegoa, pero falta confirmar el año, la fase presupuestaria y si todo se destina a igualdad. También falta integrar el personal según su dedicación y las actuaciones financiadas desde otras partidas, sin duplicidades. Se retiran los cálculos del 0,18 % y 0,42 % como estimaciones del presupuesto total de igualdad y la afirmación de que, añadiendo el personal, no se alcanza el 1 %, porque no se conoce su coste. Para valorar este indicador se comparará el presupuesto de igualdad con el total municipal del mismo ejercicio y fase —inicial con inicial o definitivo con definitivo— y se contrastará su evolución entre años. No es necesario conocer el gasto ejecutado para calcular el porcentaje presupuestado. La ejecución se analizará separadamente, comparando obligaciones reconocidas de igualdad y obligaciones totales del mismo periodo. El 1 % es el umbral del indicador utilizado; el objetivo legal autonómico del 1,5 % para 2030 no constituye un mínimo municipal directamente exigible. Pendiente del desglose anual y de las aclaraciones solicitadas a Jone el 4 de octubre.",
+      "source": "Sesiones de trabajo con Jone Gurrea, técnica de igualdad, 3 y 17 de julio de 2026; correo «partidas económicas», 2 de octubre de 2026; presupuesto municipal 2025 publicado; aclaraciones solicitadas el 4 de octubre de 2026; Decreto Legislativo 1/2023, art. 15 y disposición adicional sexta: https://www.boe.es/buscar/act.php?id=BOE-A-2023-9168",
       "evidence": []
     },
     {
@@ -2280,7 +2280,7 @@ window.QUALITY_DATA = {
       "note": "Matriz de presencia documental de requisitos, no porcentaje de cumplimiento legal. Los NO indican ausencia del requisito completo en la documentación examinada. En euskera 2021 el contraste con la reforma posterior es descriptivo; las obligaciones empresariales y de personas jurídicas no se trasladan a ayudas individuales. No se calcula una media de estos 35 cruces ni se incorporan como indicadores adicionales al global. Hay cláusulas generales de no discriminación, control, reintegro y sanción en la ordenanza. No se ha acreditado su aplicación efectiva específica a igualdad."
     }
   ],
-  "date": "2026-09-29",
+  "date": "2026-10-04",
   "sources": {
     "workbook": "fuentes/Indicadores_de_calidad_Gernika_Lumo_2026.xlsx",
     "emakunde": "fuentes/Estandares_Emakunde.pdf"
